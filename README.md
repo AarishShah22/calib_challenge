@@ -1,4 +1,6 @@
-Welcome to the comma.ai Calibration Challenge!
+# Comma AI Calibration Challenge
+
+<!-- Welcome to the comma.ai Calibration Challenge!
 ======
 
 Your goal is to predict the direction of travel (in camera frame) from provided dashcam video.
@@ -48,4 +50,4 @@ Hints
 
 <s> $500 Prize </s> CLAIMED
 ------
-The first submission that scores an error under 25% on the unlabeled set, will receive a $500 prize.
+The first submission that scores an error under 25% on the unlabeled set, will receive a $500 prize. -->
